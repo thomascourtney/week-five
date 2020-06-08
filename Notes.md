@@ -26,6 +26,19 @@
 
   - My map of the recent travels I have been on 
   https://uploads.knightlab.com/storymapjs/e03962b5f65ef9f0e5699cc7a57510e2/map/index.html
+  
+  
+## Posters
+
+- When mentioning colour theory and typography to influence psychology, it was interesting to learn about much of what you take in to do with colour or font has to do with familiarities and not so much 'psychology'
+
+- Inkscape
+
+  - Very similar to other photoshop editor programs
+  - We can split up the image by selecting 'object', 'ungroup', then 'group' to return back to the original
+  
+
+
 
 
 
