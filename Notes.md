@@ -35,7 +35,19 @@
 - Inkscape
 
   - Very similar to other photoshop editor programs
+ 
   - We can split up the image by selecting 'object', 'ungroup', then 'group' to return back to the original
+ 
+  - We can select different titles or bars in the graph to rotate, change colour or anything else
+  
+  - Creating a text box under it is very easy
+  
+  - When saving, go 'edit', 'select all in all layers', 'file', 'export bitmap', then just hit export and the whole image will be saved as a png file
+  
+  - Remember if you would like to go back and edit the image again, you have to save as a 'svg' file instead of a 'png' file
+  
+  - I inserted one of my recent papers onto one of the templates that was provided on the course website
+  
   
 
 
