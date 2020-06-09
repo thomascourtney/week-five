@@ -48,6 +48,20 @@
   
   - I inserted one of my recent papers onto one of the templates that was provided on the course website
   
+ - Static Website
+  
+    - Easy to navigate and create own website
+    
+    - Easy to add links and gifs for comedic purposes
+    
+    - On github, there are many themes to try out for the design of your website
+    
+    - The configurations and amount of information which can be presented on your website is endless
+    
+    - Website I have quickly created: https://thomascourtney.github.io/
+  
+   
+  
   
 
 
